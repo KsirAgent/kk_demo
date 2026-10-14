@@ -15,4 +15,3 @@ print(len(sparse_vectors))
 def hello():
     print("hello")
 
-print("python nb")
