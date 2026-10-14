@@ -15,3 +15,5 @@ print(len(sparse_vectors))
 def hello():
     print("hello")
 
+def tool1():
+    print("tool1")
