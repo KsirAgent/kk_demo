@@ -17,3 +17,8 @@ def hello():
 
 def tool1():
     print("tool1")
+
+
+
+def tool6():
+    print("tool6")
