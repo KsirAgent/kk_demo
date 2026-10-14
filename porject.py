@@ -11,3 +11,6 @@ sparse_vectors = all_vectors['lexical_weights']
 
 print(dense_vectors.shape)
 print(len(sparse_vectors))
+
+def hello():
+    print("hello")
